@@ -1,0 +1,18 @@
+div{
+    background-color: black;
+    height:60px;
+    font-size:25px;
+    border: 10px solid red;
+}
+#logo{
+    color: yellow;
+    text-decoration: none;
+}
+a{
+
+    color:white;
+    margin-right:100px;
+}
+#navbar{
+    margin-left: 100px;
+}
